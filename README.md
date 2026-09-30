@@ -1,62 +1,66 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f172a,50:1d4ed8,100:0891b2&amp;height=220&amp;section=header&amp;text=Dhairya%20Shah&amp;fontSize=52&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=AI%20%C2%B7%20Automation%20%C2%B7%20Backend%20Systems&amp;descAlignY=56&amp;descSize=18" width="100%" alt="Dhairya Shah — AI, Automation and Backend Systems" />
+<img src="./assets/terminal-header.svg" width="100%" alt="Dhairya Shah — building useful systems with AI, automation, web data, and backend technology" />
 
-### Building practical software where AI, automation, and the web meet.
+<br />
 
-[![LinkedIn](https://img.shields.io/badge/Let's_connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shahdhairya245)
-[![Featured Project](https://img.shields.io/badge/Explore-Featured_Project-0891B2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dhairya-unfiltered/scrapingdog-mcp-server)
+<a href="https://www.linkedin.com/in/shahdhairya245/"><img src="https://img.shields.io/badge/LINKEDIN-0B0F14?style=for-the-badge&amp;logo=linkedin&amp;logoColor=00E5FF" alt="Connect with Dhairya Shah on LinkedIn" /></a>
+<a href="https://youtu.be/rFE32i1E8xM"><img src="https://img.shields.io/badge/WATCH_LUMA_SCRAPER-0B0F14?style=for-the-badge&amp;logo=youtube&amp;logoColor=FF0033" alt="Watch the Luma Scraper project demo" /></a>
 
 </div>
 
-## About me
+## `01 // PROFILE`
 
-I enjoy turning useful ideas into working products—especially developer tools that connect AI assistants with real-world data. My current work is centered on **Model Context Protocol integrations**, **backend APIs**, and **problem solving with C++**.
+I build practical software at the intersection of **AI, automation, and the web**. I like taking repetitive, messy workflows and turning them into focused tools that are simple to use and useful in the real world.
 
-- Building AI-ready tools with MCP and modern web APIs
-- Exploring backend systems, API design, and authentication flows
-- Practicing data structures and algorithms in C++
+```text
+CURRENT FOCUS  →  AI-assisted automation
+BUILDING       →  data extraction + backend workflows
+APPROACH       →  prototype fast, refine hard, ship useful
+```
 
-## Featured work
+## `02 // FEATURED BUILD`
 
 <table>
 <tr>
-<td width="50%" valign="top">
-<h3><a href="https://github.com/Dhairya-unfiltered/scrapingdog-mcp-server">ScrapingDog LinkedIn MCP</a></h3>
-<p>An MCP server that gives AI clients structured access to public LinkedIn post data through the ScrapingDog API.</p>
-<p><strong>Highlights:</strong> Streamable HTTP transport, OAuth authorization-code flow with PKCE support, runtime validation, and a deployed endpoint.</p>
-<p><code>Node.js</code> <code>Express</code> <code>MCP SDK</code> <code>OAuth 2.0</code> <code>Zod</code></p>
-<p><a href="https://github.com/Dhairya-unfiltered/scrapingdog-mcp-server"><strong>Explore the code →</strong></a></p>
+<td width="61%" valign="middle">
+<a href="https://youtu.be/rFE32i1E8xM">
+<img src="https://i.ytimg.com/vi/rFE32i1E8xM/maxresdefault.jpg" width="100%" alt="Watch the AI Luma Scraper project demo" />
+</a>
 </td>
-<td width="50%" valign="top">
-<h3><a href="https://github.com/Dhairya-unfiltered/neetcode-submissions">NeetCode Solutions</a></h3>
-<p>A growing collection of C++ solutions focused on writing clear, efficient answers to common interview-style problems.</p>
-<p><strong>Topics:</strong> Graphs, heaps, sliding windows, intervals, strings, trees, and bit manipulation.</p>
-<p><code>C++</code> <code>Data Structures</code> <code>Algorithms</code> <code>Problem Solving</code></p>
-<p><a href="https://github.com/Dhairya-unfiltered/neetcode-submissions"><strong>Browse solutions →</strong></a></p>
+<td width="39%" valign="top">
+<p><code>PROJECT_01</code></p>
+<h2>Luma Scraper</h2>
+<p>An AI-assisted scraping project built around Luma event workflows—turning event-page information into data that is easier to work with.</p>
+<p>The short demo shows the complete project experience in action.</p>
+<p><a href="https://youtu.be/rFE32i1E8xM"><strong>▶ Watch project demo</strong></a></p>
 </td>
 </tr>
 </table>
 
-## Tools I work with
+## `03 // TOOLBOX`
 
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-0F172A?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Node.js](https://img.shields.io/badge/Node.js-0F172A?style=for-the-badge&logo=node.js&logoColor=5FA04E)
-![Express](https://img.shields.io/badge/Express-0F172A?style=for-the-badge&logo=express&logoColor=white)
-![MCP](https://img.shields.io/badge/Model_Context_Protocol-0F172A?style=for-the-badge&logo=anthropic&logoColor=D97757)
-![C++](https://img.shields.io/badge/C++-0F172A?style=for-the-badge&logo=c%2B%2B&logoColor=659AD2)
-![Git](https://img.shields.io/badge/Git-0F172A?style=for-the-badge&logo=git&logoColor=F05032)
-![Vercel](https://img.shields.io/badge/Vercel-0F172A?style=for-the-badge&logo=vercel&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-080B10?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-080B10?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![Node.js](https://img.shields.io/badge/Node.js-080B10?style=for-the-badge&logo=node.js&logoColor=5FA04E)
+![Express](https://img.shields.io/badge/Express-080B10?style=for-the-badge&logo=express&logoColor=FFFFFF)
+![C++](https://img.shields.io/badge/C++-080B10?style=for-the-badge&logo=c%2B%2B&logoColor=659AD2)
+![Git](https://img.shields.io/badge/Git-080B10?style=for-the-badge&logo=git&logoColor=F05032)
+![Vercel](https://img.shields.io/badge/Vercel-080B10?style=for-the-badge&logo=vercel&logoColor=FFFFFF)
 
 </div>
 
----
+## `04 // CONNECT`
+
+```text
+Have an idea around AI, automation, scraping, or a useful web product?
+Let's build something worth shipping.
+```
 
 <div align="center">
 
-**Have an idea involving AI tools, automation, or APIs?**  
-[Let's talk on LinkedIn](https://linkedin.com/in/shahdhairya245)
+[![Connect on LinkedIn](https://img.shields.io/badge/OPEN_LINKEDIN_PROFILE-00E5FF?style=for-the-badge&logo=linkedin&logoColor=071013)](https://www.linkedin.com/in/shahdhairya245/)
 
 </div>
