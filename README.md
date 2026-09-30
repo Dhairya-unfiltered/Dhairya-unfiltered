@@ -1,17 +1,11 @@
 <div align="center">
 
-<img src="./assets/terminal-header.svg" width="100%" alt="Dhairya Shah" />
+<img src="./assets/header-minimal.svg" width="100%" alt="Dhairya Shah" />
 
-</div>
-
-## `PROJECT`
-
-<div align="center">
-
-### Luma Scraper
+<br />
 
 <a href="https://youtu.be/rFE32i1E8xM">
-<img src="https://i.ytimg.com/vi/rFE32i1E8xM/maxresdefault.jpg" width="820" alt="Watch the Luma Scraper project demo" />
+<img src="./assets/luma-scraper-card.svg" width="100%" alt="Luma Scraper — Watch demo" />
 </a>
 
 </div>
