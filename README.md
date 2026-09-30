@@ -1,35 +1,31 @@
 <div align="center">
 
-<img src="./assets/header-minimal.svg" width="100%" alt="Dhairya Shah" />
+<img src="./assets/profile-header-clean.svg" width="100%" alt="Dhairya Shah" />
 
 <br />
 
 <a href="https://youtu.be/rFE32i1E8xM">
-<img src="./assets/luma-scraper-project.svg" width="100%" alt="Luma Scraper — Watch demo" />
+<img src="./assets/luma-video-card.svg" width="100%" alt="Luma Scraper — Watch demo" />
 </a>
 
-</div>
+<br /><br />
 
-## `STACK`
+<img src="https://img.shields.io/badge/C++-080B10?style=for-the-badge&amp;logo=c%2B%2B&amp;logoColor=659AD2" alt="C++" />
+<img src="https://img.shields.io/badge/Node.js-080B10?style=for-the-badge&amp;logo=node.js&amp;logoColor=5FA04E" alt="Node.js" />
+<img src="https://img.shields.io/badge/React.js-080B10?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" alt="React.js" />
+<img src="https://img.shields.io/badge/HTML-080B10?style=for-the-badge&amp;logo=html5&amp;logoColor=E34F26" alt="HTML" />
+<img src="https://img.shields.io/badge/CSS-080B10?style=for-the-badge&amp;logo=css&amp;logoColor=663399" alt="CSS" />
+<img src="https://img.shields.io/badge/Codex-080B10?style=for-the-badge&amp;logo=openai&amp;logoColor=FFFFFF" alt="Codex" />
+<img src="https://img.shields.io/badge/OpenAI_Agents_SDK-080B10?style=for-the-badge&amp;logo=openai&amp;logoColor=00E5FF" alt="OpenAI Agents SDK" />
 
-<div align="center">
-
-![C++](https://img.shields.io/badge/C++-080B10?style=for-the-badge&logo=c%2B%2B&logoColor=659AD2)
-![Node.js](https://img.shields.io/badge/Node.js-080B10?style=for-the-badge&logo=node.js&logoColor=5FA04E)
-![React.js](https://img.shields.io/badge/React.js-080B10?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML](https://img.shields.io/badge/HTML-080B10?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS](https://img.shields.io/badge/CSS-080B10?style=for-the-badge&logo=css&logoColor=663399)
-![Codex](https://img.shields.io/badge/Codex-080B10?style=for-the-badge&logo=openai&logoColor=FFFFFF)
-![OpenAI Agents SDK](https://img.shields.io/badge/OpenAI_Agents_SDK-080B10?style=for-the-badge&logo=openai&logoColor=00E5FF)
-
-</div>
-
----
-
-<div align="center">
+<br /><br /><br />
 
 ### Let's talk about Code, Coffee and building cool stuff ☕
 
-[![LinkedIn](https://img.shields.io/badge/LET'S_TALK-00E5FF?style=for-the-badge&logo=linkedin&logoColor=071013)](https://www.linkedin.com/in/shahdhairya245/)
+<a href="https://www.linkedin.com/in/shahdhairya245/">
+<img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-080B10?style=for-the-badge&amp;logo=linkedin&amp;logoColor=00E5FF" alt="Connect on LinkedIn" />
+</a>
+
+<br />
 
 </div>
