@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-labelledby="title desc">
-  <title id="title">Dhairya Shah — developer profile</title>
-  <desc id="desc">Static black terminal banner with a keep trying code loop.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="300" viewBox="0 0 1280 300" role="img" aria-labelledby="title desc">
+  <title id="title">Dhairya Shah</title>
+  <desc id="desc">Static black developer banner with a retry code loop.</desc>
   <defs>
     <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#020304"/>
@@ -16,27 +16,24 @@
     </pattern>
   </defs>
 
-  <rect width="1280" height="320" rx="20" fill="url(#background)"/>
-  <rect width="1280" height="320" rx="20" fill="url(#grid)" opacity="0.55"/>
-  <rect x="22" y="22" width="1236" height="276" rx="16" fill="#05080c" fill-opacity="0.88" stroke="#22303c"/>
+  <rect width="1280" height="300" rx="20" fill="url(#background)"/>
+  <rect width="1280" height="300" rx="20" fill="url(#grid)" opacity="0.55"/>
+  <rect x="22" y="22" width="1236" height="256" rx="16" fill="#05080c" fill-opacity="0.88" stroke="#22303c"/>
   <path d="M 22 70 H 1258" stroke="#22303c"/>
 
   <circle cx="54" cy="46" r="6" fill="#ff5f57"/>
   <circle cx="76" cy="46" r="6" fill="#febc2e"/>
   <circle cx="98" cy="46" r="6" fill="#28c840"/>
-  <text x="122" y="52" fill="#64748b" font-family="Consolas, Menlo, monospace" font-size="15">dhairya@github ~/profile</text>
 
-  <text x="66" y="124" fill="#00e5ff" font-family="Consolas, Menlo, monospace" font-size="18" letter-spacing="2">// DHAIRYA SHAH</text>
-  <text x="66" y="184" fill="#f8fafc" font-family="Consolas, Menlo, monospace" font-size="48" font-weight="700" letter-spacing="1">BUILD. TRY. SHIP.</text>
-  <rect x="67" y="211" width="500" height="3" rx="2" fill="url(#accent)"/>
-  <text x="66" y="254" fill="#94a3b8" font-family="Consolas, Menlo, monospace" font-size="16" letter-spacing="1">CODE  /  COFFEE  /  COOL STUFF</text>
+  <text x="74" y="164" fill="#f8fafc" font-family="Consolas, Menlo, monospace" font-size="52" font-weight="700" letter-spacing="2">DHAIRYA SHAH</text>
+  <rect x="76" y="190" width="430" height="3" rx="2" fill="url(#accent)"/>
 
-  <rect x="775" y="98" width="425" height="155" rx="10" fill="#020406" stroke="#1e3a44"/>
-  <text x="805" y="137" fill="#c084fc" font-family="Consolas, Menlo, monospace" font-size="21">while</text>
-  <text x="873" y="137" fill="#cbd5e1" font-family="Consolas, Menlo, monospace" font-size="21">(!success) {</text>
-  <text x="842" y="179" fill="#67e8f9" font-family="Consolas, Menlo, monospace" font-size="21">try</text>
-  <text x="880" y="179" fill="#cbd5e1" font-family="Consolas, Menlo, monospace" font-size="21">();</text>
-  <text x="805" y="221" fill="#cbd5e1" font-family="Consolas, Menlo, monospace" font-size="21">}</text>
+  <rect x="750" y="92" width="450" height="145" rx="10" fill="#020406" stroke="#1e3a44"/>
+  <text x="785" y="132" fill="#c084fc" font-family="Consolas, Menlo, monospace" font-size="22">while</text>
+  <text x="857" y="132" fill="#cbd5e1" font-family="Consolas, Menlo, monospace" font-size="22">(!success) {</text>
+  <text x="824" y="174" fill="#67e8f9" font-family="Consolas, Menlo, monospace" font-size="22">try</text>
+  <text x="864" y="174" fill="#cbd5e1" font-family="Consolas, Menlo, monospace" font-size="22">();</text>
+  <text x="785" y="216" fill="#cbd5e1" font-family="Consolas, Menlo, monospace" font-size="22">}</text>
 
-  <rect x="22" y="290" width="1236" height="8" rx="4" fill="url(#accent)"/>
+  <rect x="22" y="270" width="1236" height="8" rx="4" fill="url(#accent)"/>
 </svg>
