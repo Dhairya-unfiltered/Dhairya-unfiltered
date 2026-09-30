@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/terminal-header.svg" width="100%" alt="Dhairya Shah — Build, try, ship" />
+<img src="./assets/terminal-header.svg" width="100%" alt="Dhairya Shah" />
 
 </div>
 
