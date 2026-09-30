@@ -5,7 +5,7 @@
 <br />
 
 <a href="https://youtu.be/rFE32i1E8xM">
-<img src="./assets/luma-scraper-card.svg" width="100%" alt="Luma Scraper — Watch demo" />
+<img src="./assets/luma-scraper-project.svg" width="100%" alt="Luma Scraper — Watch demo" />
 </a>
 
 </div>
