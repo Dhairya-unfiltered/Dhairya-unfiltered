@@ -14,10 +14,6 @@
 <img src="https://i.ytimg.com/vi/rFE32i1E8xM/maxresdefault.jpg" width="820" alt="Watch the Luma Scraper project demo" />
 </a>
 
-<br />
-
-[![Watch Project](https://img.shields.io/badge/WATCH_PROJECT-0B0F14?style=for-the-badge&logo=youtube&logoColor=FF0033)](https://youtu.be/rFE32i1E8xM)
-
 </div>
 
 ## `STACK`
