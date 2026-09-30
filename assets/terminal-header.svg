@@ -1,11 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="340" viewBox="0 0 1280 340" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-labelledby="title desc">
   <title id="title">Dhairya Shah — developer profile</title>
-  <desc id="desc">Static black terminal-inspired banner for a developer focused on AI automation, web data, and backend systems.</desc>
+  <desc id="desc">Static black terminal banner with a keep trying code loop.</desc>
   <defs>
     <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#030507"/>
-      <stop offset="0.55" stop-color="#080d12"/>
-      <stop offset="1" stop-color="#041014"/>
+      <stop offset="0" stop-color="#020304"/>
+      <stop offset="0.55" stop-color="#070b10"/>
+      <stop offset="1" stop-color="#031014"/>
     </linearGradient>
     <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0" stop-color="#00e5ff"/>
@@ -14,40 +14,29 @@
     <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
       <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#16212b" stroke-width="1"/>
     </pattern>
-    <filter id="softGlow" x="-30%" y="-30%" width="160%" height="160%">
-      <feGaussianBlur stdDeviation="5" result="blur"/>
-      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
   </defs>
 
-  <rect width="1280" height="340" rx="20" fill="url(#background)"/>
-  <rect width="1280" height="340" rx="20" fill="url(#grid)" opacity="0.55"/>
-  <rect x="22" y="22" width="1236" height="296" rx="16" fill="#05080c" fill-opacity="0.86" stroke="#22303c"/>
+  <rect width="1280" height="320" rx="20" fill="url(#background)"/>
+  <rect width="1280" height="320" rx="20" fill="url(#grid)" opacity="0.55"/>
+  <rect x="22" y="22" width="1236" height="276" rx="16" fill="#05080c" fill-opacity="0.88" stroke="#22303c"/>
   <path d="M 22 70 H 1258" stroke="#22303c"/>
 
   <circle cx="54" cy="46" r="6" fill="#ff5f57"/>
   <circle cx="76" cy="46" r="6" fill="#febc2e"/>
   <circle cx="98" cy="46" r="6" fill="#28c840"/>
   <text x="122" y="52" fill="#64748b" font-family="Consolas, Menlo, monospace" font-size="15">dhairya@github ~/profile</text>
-  <circle cx="1165" cy="46" r="4" fill="#22c55e" filter="url(#softGlow)"/>
-  <text x="1180" y="51" fill="#94a3b8" font-family="Consolas, Menlo, monospace" font-size="13">SHIP MODE</text>
 
-  <text x="66" y="116" fill="#00e5ff" font-family="Consolas, Menlo, monospace" font-size="18" letter-spacing="2">// DHAIRYA SHAH</text>
-  <text x="66" y="175" fill="#f8fafc" font-family="Consolas, Menlo, monospace" font-size="47" font-weight="700" letter-spacing="1">BUILDING USEFUL</text>
-  <text x="66" y="228" fill="#f8fafc" font-family="Consolas, Menlo, monospace" font-size="47" font-weight="700" letter-spacing="1">SYSTEMS.</text>
-  <rect x="67" y="252" width="500" height="3" rx="2" fill="url(#accent)"/>
-  <text x="66" y="288" fill="#94a3b8" font-family="Consolas, Menlo, monospace" font-size="16" letter-spacing="1">AI AUTOMATION  /  WEB DATA  /  BACKEND</text>
+  <text x="66" y="124" fill="#00e5ff" font-family="Consolas, Menlo, monospace" font-size="18" letter-spacing="2">// DHAIRYA SHAH</text>
+  <text x="66" y="184" fill="#f8fafc" font-family="Consolas, Menlo, monospace" font-size="48" font-weight="700" letter-spacing="1">BUILD. TRY. SHIP.</text>
+  <rect x="67" y="211" width="500" height="3" rx="2" fill="url(#accent)"/>
+  <text x="66" y="254" fill="#94a3b8" font-family="Consolas, Menlo, monospace" font-size="16" letter-spacing="1">CODE  /  COFFEE  /  COOL STUFF</text>
 
-  <rect x="795" y="96" width="405" height="178" rx="10" fill="#020406" stroke="#1e3a44"/>
-  <text x="820" y="126" fill="#475569" font-family="Consolas, Menlo, monospace" font-size="14">01</text>
-  <text x="858" y="126" fill="#cbd5e1" font-family="Consolas, Menlo, monospace" font-size="14"><tspan fill="#c084fc">const</tspan> builder = {</text>
-  <text x="820" y="156" fill="#475569" font-family="Consolas, Menlo, monospace" font-size="14">02</text>
-  <text x="880" y="156" fill="#cbd5e1" font-family="Consolas, Menlo, monospace" font-size="14">focus: <tspan fill="#86efac">"useful tools"</tspan>,</text>
-  <text x="820" y="186" fill="#475569" font-family="Consolas, Menlo, monospace" font-size="14">03</text>
-  <text x="880" y="186" fill="#cbd5e1" font-family="Consolas, Menlo, monospace" font-size="14">method: <tspan fill="#67e8f9">"build + ship"</tspan>,</text>
-  <text x="820" y="216" fill="#475569" font-family="Consolas, Menlo, monospace" font-size="14">04</text>
-  <text x="858" y="216" fill="#cbd5e1" font-family="Consolas, Menlo, monospace" font-size="14">};</text>
-  <text x="820" y="250" fill="#22c55e" font-family="Consolas, Menlo, monospace" font-size="14">$ builder.execute()</text>
+  <rect x="775" y="98" width="425" height="155" rx="10" fill="#020406" stroke="#1e3a44"/>
+  <text x="805" y="137" fill="#c084fc" font-family="Consolas, Menlo, monospace" font-size="21">while</text>
+  <text x="873" y="137" fill="#cbd5e1" font-family="Consolas, Menlo, monospace" font-size="21">(!success) {</text>
+  <text x="842" y="179" fill="#67e8f9" font-family="Consolas, Menlo, monospace" font-size="21">try</text>
+  <text x="880" y="179" fill="#cbd5e1" font-family="Consolas, Menlo, monospace" font-size="21">();</text>
+  <text x="805" y="221" fill="#cbd5e1" font-family="Consolas, Menlo, monospace" font-size="21">}</text>
 
-  <rect x="22" y="310" width="1236" height="8" rx="4" fill="url(#accent)" opacity="0.9"/>
+  <rect x="22" y="290" width="1236" height="8" rx="4" fill="url(#accent)"/>
 </svg>
